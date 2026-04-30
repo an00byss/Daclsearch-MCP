@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "daclsearch": {
+      "command": "python",
+      "args": ["/PATH/Daclsearch-MCP/server.py"],
+      "env": {
+        "DACLSEARCH_DB": "/path/to/your/daclsearch.db"
+      }
+    }
+  }
+}
